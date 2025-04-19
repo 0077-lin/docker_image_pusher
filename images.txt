@@ -9,4 +9,5 @@ cooderl/wewe-rss-sqlite:latest
 httpd
 php
 php:5.5-apache
+vulfocus
 
