@@ -8,4 +8,5 @@ python:alpine3.19
 cooderl/wewe-rss-sqlite:latest
 httpd
 php
+php:5.5-apache
 
